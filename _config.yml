@@ -1,5 +1,5 @@
 title: Résumé
-baseurl: "detarblasigt-hg.github.io/resume/"
+baseurl: "/resume/"
 exclude:
   - README.md
   - "README_zh-CN.md"
