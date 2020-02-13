@@ -32,26 +32,16 @@ experience:
   - title: Software Engineer Assistant
     duration: May 2019 - Jul 2019
     company: CISDI Chongqing Information Technology Co., Ltd.
-    description:  Participated in the optimization of the converter intelligent steelmaking system to improve functionalities\n
-	        Achieved real-time video image acquisition using C# based on Pylon Camera software package tools and SDK\n
-	        Connected Oracle database to Windows application and generated SQL script to retrieve and store data\n
-	        Optimized the user interface and used DataGridView control to edit tabular data and store data in Oracle database\n
-                        Created control chart display interface and program to generate report using C# Windows application
+    description:  Participated in the optimization of the converter intelligent steelmaking system to improve functionalities; Achieved real-time video image acquisition using C# based on Pylon Camera software package tools and SDK; Connected Oracle database to Windows application and generated SQL script to retrieve and store data; Optimized the user interface and used DataGridView control to edit tabular data and store data in Oracle database; Created control chart display interface and program to generate report using C# Windows application
 projects:
   - name: Credit Card Fraud Detection - Kaggle
     description: 
     contribution: Individual project
   - name: Database Architecture Project
-    description: Designed, developed and implemented relational database to provide enhanced business value for organization\n
-	        Master entity-relationship framework to create entity relationship diagram (ERD) for business rules\n
-	       Generated standard SQL and complex scripts to construct databases and retrieve data for operational needs\n
-	       Standardized database application security, integrity, complexity and specialization of labor\n
+    description: Designed, developed and implemented relational database to provide enhanced business value for organization; Master entity-relationship framework to create entity relationship diagram (ERD) for business rules; Generated standard SQL and complex scripts to construct databases and retrieve data for operational needs; Standardized database application security, integrity, complexity and specialization of labor\n
     contribution: Team developer
   - name: Feedback Forum Web Development Project
-    description: Built customized websites for Feedback Forum and transfer data between multiple Web forms\n
-	        Applied skills of HTML, CSS, JavaScript, jQuery to develop and test the website\n
-	        Utilized Bootstrap framework for user interface design to enhance functionalities \n
-	        Demonstrated knowledge of project management techniques to manage information technologic project\n
+    description: Built customized websites for Feedback Forum and transfer data between multiple Web forms; Applied skills of HTML, CSS, JavaScript, jQuery to develop and test the website; Utilized Bootstrap framework for user interface design to enhance functionalities; Demonstrated knowledge of project management techniques to manage information technologic project\n
     contribution: Team developer
 languages:
   - name: English
