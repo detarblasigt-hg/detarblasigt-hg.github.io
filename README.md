@@ -1,26 +1,20 @@
 # Crisp Minimal Résumé
 
+![travis](https://travis-ci.org/crispgm/resume.svg)
+![GitHub CI](https://github.com/crispgm/resume/workflows/build/badge.svg)
+[![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal-resume.svg)](https://badge.fury.io/rb/jekyll-theme-minimal-resume)
+![powered-by-jekyll](https://img.shields.io/badge/powered%20by-jekyll-blue.svg)
+
 <p align="center">
   <img src="screenshots/resume-desktop.png" width="578" />
   <img src="screenshots/resume-mobile.png" width="220" />
-</p>
-
-<p align="center">
-  <img src="https://travis-ci.org/crispgm/resume.svg" alt="Travis CI" />
-  <img src="https://github.com/crispgm/resume/workflows/build/badge.svg" alt="GitHub CI" />
-  <a href="https://badge.fury.io/rb/jekyll-theme-minimal-resume">
-    <img src="https://badge.fury.io/rb/jekyll-theme-minimal-resume.svg" alt="Gem Version" />
-  </a>
-  <a href="https://badge.fury.io/js/hexo-theme-crisp-minimal-resume">
-    <img src="https://badge.fury.io/js/hexo-theme-crisp-minimal-resume.svg" alt="npm version" />
-  </a>
 </p>
 
 ## Introduction
 
 [English](/README.md) [简体中文](/README_zh-CN.md)
 
-This is a responsive minimal résumé template made by Crisp, powered by [Jekyll](http://jekyllrb.com/). And we also provide an official [Hexo port](/port-hexo/README.md) for Hexo users.
+This is a responsive minimal résumé template made by Crisp, powered by [Jekyll](http://jekyllrb.com/).
 
 You may config all the data in `yaml` and make it your own résumé. Then, you might use on GitHub Pages, your website, or wherever you want.
 

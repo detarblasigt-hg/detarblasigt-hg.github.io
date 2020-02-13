@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gemspec
+gem "jekyll-theme-minimal-resume"
 
-gem 'scss_lint', require: false
+gem "github-pages", group: :jekyll_plugins

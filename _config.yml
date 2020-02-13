@@ -1,13 +1,3 @@
-title: Résumé
+title: Résumé Title
 baseurl: "/resume/"
-exclude:
-  - README.md
-  - "README_zh-CN.md"
-  - LICENSE
-  - Gemfile
-  - Gemfile.lock
-  - jekyll-crisp-minimal-resume.gemspec
-  - /script
-  - /screenshots
-  - /fixtures
-  - Rakefile
+theme: "jekyll-theme-minimal-resume"
