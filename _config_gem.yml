@@ -1,5 +1,6 @@
 title: Résumé
-baseurl: "detarblasigt-hg.github.io/resume/"
+baseurl: "/resume/"
+theme: "jekyll-theme-minimal-resume"
 exclude:
   - README.md
   - "README_zh-CN.md"
